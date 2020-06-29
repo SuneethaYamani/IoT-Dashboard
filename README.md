@@ -1,3 +1,6 @@
+follow the URL to create iot dashboard
+https://yamanisuneetha.wixsite.com/website/post/react-express-sqlite3
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
